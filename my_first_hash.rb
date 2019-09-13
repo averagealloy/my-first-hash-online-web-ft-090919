@@ -39,5 +39,5 @@ shipping_manifest["gun powder"] = 4
 
 
   # return the shipping_manifest hash below
- reshipping_manifest
+ return shipping_manifest
 end
